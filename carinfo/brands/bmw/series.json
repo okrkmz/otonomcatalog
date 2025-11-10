@@ -1,0 +1,101 @@
+{
+  "brand": "BMW",
+  "series": [
+    {
+      "name": "1 Series (2004 -)",
+      "path": "models/1_series_2004/1_series_2004.json"
+    },
+    {
+      "name": "2 Series Active/Gran Tourer (2015 -)",
+      "path": "models/2_series_active_gran_tourer_2015/2_series_active_gran_tourer_2015.json"
+    },
+    {
+      "name": "3 Series (1975 -)",
+      "path": "models/3_series_1975/3_series_1975.json"
+    },
+    {
+      "name": "4 Series (2014 -)",
+      "path": "models/4_series_2014/4_series_2014.json"
+    },
+    {
+      "name": "5 Series (1973 -)",
+      "path": "models/5_series_1973/5_series_1973.json"
+    },
+    {
+      "name": "7 Series (1977 -)",
+      "path": "models/7_series_1977/7_series_1977.json"
+    },
+    {
+      "name": "iX (2022 -)",
+      "path": "models/ix_2022/ix_2022.json"
+    },
+    {
+      "name": "X1 (2010 -)",
+      "path": "models/x1_2010/x1_2010.json"
+    },
+    {
+      "name": "X3 (2004 -)",
+      "path": "models/x3_2004/x3_2004.json"
+    },
+    {
+      "name": "X4 (2015 -)",
+      "path": "models/x4_2015/x4_2015.json"
+    },
+    {
+      "name": "X5 (2000 -)",
+      "path": "models/x5_2000/x5_2000.json"
+    },
+    {
+      "name": "Z4 (2003 -)",
+      "path": "models/z4_2003/z4_2003.json"
+    },
+    {
+      "name": "1600 GT (1968 -)",
+      "path": "models/1600_gt_1968/1600_gt_1968.json"
+    },
+    {
+      "name": "327 (1937 - 1955)",
+      "path": "models/327_1937_1955/327_1937_1955.json"
+    },
+    {
+      "name": "501/502 (1952 - 1965)",
+      "path": "models/501_502_1952_1965/501_502_1952_1965.json"
+    },
+    {
+      "name": "700 (1960 - 1965)",
+      "path": "models/700_1960_1965/700_1960_1965.json"
+    },
+    {
+      "name": "E3/E9 (1968 - 1977)",
+      "path": "models/e3_e9_1968_1977/e3_e9_1968_1977.json"
+    },
+    {
+      "name": "i3 (2014 - 2022)",
+      "path": "models/i3_2014_2022/i3_2014_2022.json"
+    },
+    {
+      "name": "i8 (2014 - 2020)",
+      "path": "models/i8_2014_2020/i8_2014_2020.json"
+    },
+    {
+      "name": "Isetta (1955 - 1962)",
+      "path": "models/isetta_1955_1962/isetta_1955_1962.json"
+    },
+    {
+      "name": "New Class (1962 - 1977)",
+      "path": "models/new_class_1962_1977/new_class_1962_1977.json"
+    },
+    {
+      "name": "Z1 (1989 - 1992)",
+      "path": "models/z1_1989_1992/z1_1989_1992.json"
+    },
+    {
+      "name": "Z3 (1996 - 2003)",
+      "path": "models/z3_1996_2003/z3_1996_2003.json"
+    },
+    {
+      "name": "Z8 (2000 - 2003)",
+      "path": "models/z8_2000_2003/z8_2000_2003.json"
+    }
+  ]
+}

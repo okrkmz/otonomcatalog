@@ -1,0 +1,420 @@
+{
+  "fuel_type": "P",
+  "name": "120i",
+  "years": "2004-2007",
+  "acceleration_0_100_kmh": "8.70-9.20 sec",
+  "power_hp": 150,
+  "drive": "2WD",
+  "transmissions": [
+    "M",
+    "A"
+  ],
+  "generation": "E87",
+  "details": {
+    "overview": {
+      "model_year": "2005-2007",
+      "series": "1 Series",
+      "model": "1 Series 5-door",
+      "generation": "E87",
+      "chassis": {
+        "type": "Hatchback",
+        "doors": 5
+      },
+      "seats": 5,
+      "registered_in_sweden": 448,
+      "current_classifieds": 21,
+      "average_price_current_classifieds_sek": 48975
+    },
+    "engine_and_performance": {
+      "engine_specification": {
+        "power_kw": 110,
+        "horsepower_hp": 150,
+        "horsepower_bhp": 148,
+        "rev_at_max_power_rpm": 6200,
+        "torque_nm": 200,
+        "torque_lb_ft": 148,
+        "rev_at_max_torque_rpm": "3600"
+      },
+      "engine_fluids": {
+        "synthetic_oil_viscosity": [
+          "0W-30",
+          "0W-40",
+          "5W-30",
+          "5W-40"
+        ],
+        "semi_synthetic_oil_viscosity": [
+          "5W-30",
+          "5W-40"
+        ],
+        "engine_oil_volume_l": 4.25
+      },
+      "engine_configuration": {
+        "displacement_cc": 1995,
+        "displacement_l": 2.0,
+        "cylinders": "4 Cyl. / 4 V per Cyl.",
+        "bore_mm": 84,
+        "stroke_mm": 90,
+        "compression_ratio": "10.5:1",
+        "layout": "Inline",
+        "synchronization": "Timing Chain",
+        "placement": "Front",
+        "engine_mount": "Longitudinally",
+        "combustion_type": "Piston",
+        "fuel_system": "Electronic Fuel Injection"
+      },
+      "service_intervals": {
+        "brake_fluid": "2 years",
+        "oil_change_and_engine_filter": "25,000 km / 2 years"
+      },
+      "performance": {
+        "top_speed_kmh": "213-217",
+        "acceleration_0_100_kmh": "8.7-9.2 sec"
+      }
+    },
+    "transmission_and_drivetrain": {
+      "drivetrain": "RWD",
+      "transmission": {
+        "types": [
+          "Automatic Manumatic",
+          "Manual"
+        ],
+        "speeds": [
+          5,
+          6
+        ]
+      },
+      "gear_ratios": {
+        "1st": "4.35:1",
+        "2nd": "2.5:1",
+        "3rd": "1.67:1",
+        "4th": "1.23:1",
+        "5th": "1:1",
+        "6th": "0.85:1",
+        "reverse": "3.93:1",
+        "final_drive": "3.38:1"
+      }
+    },
+    "brakes": {
+      "parking_brake": "Manual Lever",
+      "front_brakes": {
+        "type": "Disc",
+        "cooling": "Ventilated"
+      },
+      "rear_brakes": {
+        "type": "Disc"
+      }
+    },
+    "suspensions": {
+      "front": {
+        "spring": "Coil",
+        "suspension": "Independent Double Wishbone"
+      },
+      "rear": {
+        "spring": "Coil",
+        "suspension": "Independent Multi-link"
+      }
+    },
+    "fuel_and_emissions": {
+      "fuel_type": "Petrol",
+      "tank_volume_l": 50,
+      "fuel_cap_position": "Rear Right",
+      "emission_standard": "Euro 4",
+      "consumption_nedc_l_per_100km": {
+        "city": "10.7-11",
+        "highway": "5.6-6.2",
+        "combined": "7.5-7.9"
+      },
+      "co2_nedc_g_per_km": "178-190"
+    },
+    "dimensions_and_weight": {
+      "exterior_mm": {
+        "length": 4227,
+        "width": 1751,
+        "width_with_mirrors": 1933,
+        "height": 1430,
+        "track_front": 1484,
+        "track_rear": 1497,
+        "wheelbase": 2660,
+        "overhang_front": 737,
+        "overhang_rear": 830,
+        "turning_circle_m": 10.7,
+        "ground_clearance": 145
+      },
+      "interior_mm": {
+        "head_room_front": 963,
+        "head_room_rear": 967,
+        "shoulder_room_rear": 1407,
+        "shoulder_room_third_row": 1414
+      },
+      "weight_kg": {
+        "curb": "1335-1350",
+        "gross": "1760-1775",
+        "max_trailer_load_braked_12pct": 1200,
+        "max_trailer_load_braked_8pct": 1200,
+        "max_trailer_load_unbraked": 665,
+        "cargo_capacity": 500,
+        "max_roof_load": 75,
+        "max_towbar_download": 75,
+        "permitted_axle_load_front": 850,
+        "permitted_axle_load_rear": 995
+      }
+    },
+    "chassis_and_body": {
+      "chassis": "Hatchback",
+      "pillars": "A-C",
+      "construction": "Unibody",
+      "doors": {
+        "count": 5,
+        "front": "Conventional",
+        "rear": "Conventional"
+      }
+    },
+    "equipment": {
+      "side_mirrors": {
+        "mirror_type": "Conventional",
+        "user_memory": "Optional",
+        "heated": "Optional",
+        "house_colour": "Same as Car"
+      },
+      "windscreen_wipers": {
+        "heated_washer_nozzles": "Optional",
+        "intermittent_control": true,
+        "rear_wiper": true,
+        "connector_type_front": "Pinch Tab",
+        "front_wipers_count": 2
+      },
+      "windows": {
+        "front_lifts": "Powered",
+        "rear_lifts": "Powered",
+        "pinch_protection": true,
+        "heated_windows": {
+          "rear": true
+        },
+        "heat_insulating": [
+          "Front",
+          "First Row",
+          "Second Row",
+          "Rear"
+        ],
+        "tinted_windows": "Optional"
+      },
+      "other_equipment": {
+        "sunroof": "Optional",
+        "antenna": "Optional",
+        "exhaust_pipes": 1
+      },
+      "lights": {
+        "rear_lights": "Halogen",
+        "fog_lights": "Optional",
+        "adaptive_headlights": "Optional",
+        "headlight_washers": "Optional",
+        "headlight_range_adjustment": "Optional"
+      }
+    },
+    "rims_and_tires": {
+      "bolts_count": 5,
+      "bolt_distance_mm": 120,
+      "nut_bolt_dimensions": "M12x1.5",
+      "central_bore_mm": 72.6,
+      "fastening_type": "Lug Bolts",
+      "tightening_torque_nm": 120,
+      "rim_type": "Disc Wheel"
+    },
+    "interior": {
+      "instrument_cluster": {
+        "trip_computer": true,
+        "display": true,
+        "speedometer": "Analogue",
+        "tachometer": "Analogue",
+        "fuel_gauge": "Analogue"
+      },
+      "climate_control": {
+        "air_condition": true,
+        "outside_temperature_indicator": true
+      },
+      "connectivity": {
+        "radio": [
+          "AM",
+          "FM"
+        ],
+        "media_format": {
+          "cd": "Optional",
+          "mp3": "Optional"
+        },
+        "media_inputs": {
+          "aux": true,
+          "usb": "Optional"
+        },
+        "bluetooth": "Optional",
+        "phone": "Optional",
+        "phone_preparation": "Optional"
+      },
+      "interior_storage": {
+        "glove_compartment": true,
+        "door_storage": [
+          "Driver",
+          "Passenger"
+        ],
+        "cup_holders": {
+          "front": true,
+          "placement": "Middle Console"
+        }
+      },
+      "interior_lighting": {
+        "read_light": "Optional",
+        "front": "Optional",
+        "guide_light": true,
+        "footwell": "Optional",
+        "door_handles": "Optional"
+      },
+      "other_equipment": {
+        "make_up_mirror": [
+          "Driver",
+          "Passenger"
+        ],
+        "make_up_light": "Optional",
+        "clock": true,
+        "digital": "Instrument Cluster",
+        "outlet_12v": "Optional",
+        "carpets": "Optional",
+        "cigarette_lighter": "Optional"
+      },
+      "steering_wheel": {
+        "multifunction": "Optional",
+        "power_steering": true,
+        "adjustments": [
+          "Tilt",
+          "Telescope"
+        ],
+        "sport": "Optional",
+        "spokes": 3,
+        "colour": "Black"
+      }
+    },
+    "trunk": {
+      "rear_trunk": true,
+      "volume_l": 330,
+      "volume_back_seat_collapsed_l": 1150,
+      "depth_mm": 750,
+      "depth_back_seat_collapsed_mm": 1500,
+      "width_mm": 940,
+      "barrier_net_or_grid": "Optional",
+      "carpet": "Optional",
+      "rubber": "Optional",
+      "light": true,
+      "hatch_opening_type": "From Roof"
+    },
+    "seats": {
+      "total_seats": 5,
+      "front_seats": {
+        "driver_adjustments": {
+          "seat_depth": "Manual",
+          "seat_height": "Manual",
+          "backrest_angle": "Manual",
+          "lumbar_support": "Optional",
+          "headrest_height": "Manual"
+        },
+        "passenger_adjustments": {
+          "seat_depth": "Manual",
+          "seat_height": "Manual",
+          "backrest_angle": "Manual",
+          "lumbar_support": "Optional",
+          "headrest_height": "Manual"
+        },
+        "power_seat_driver": "Optional",
+        "power_seat_passenger": "Optional",
+        "heated_seats": "Optional"
+      },
+      "rear_seats": {
+        "row": 2,
+        "collapsible": "Manual",
+        "split_fold_ratio": "60/40",
+        "headrests": {
+          "outer_seats": "Height Adjustment"
+        },
+        "number_of_seats": 3,
+        "type": "Adult"
+      }
+    },
+    "comfort_and_features": {
+      "comfort": {
+        "keyless_entry": "Optional",
+        "keyless_start": "Optional",
+        "garage_remote_control": "Optional",
+        "cruise_control": "Optional",
+        "voice_control": "Optional"
+      },
+      "other_features": {
+        "start_stop": true
+      },
+      "accessories": {
+        "tool_kit_and_jack": true,
+        "warning_triangle": true,
+        "first_aid_kit": true,
+        "bicycle_holder": "Optional",
+        "ski_or_snowboard_bag": "Optional"
+      }
+    },
+    "safety_and_security": {
+      "seat_belts": {
+        "type": "Three-Point",
+        "positions": [
+          "Front",
+          "Outer Rear",
+          "Centre Rear"
+        ],
+        "colour": "Black"
+      },
+      "assist_systems": {
+        "electronic_stability_control": true,
+        "forward_collision_warning": "Optional",
+        "rear_collision_warning": "Optional",
+        "forward_distance_monitoring": "Optional",
+        "parking_assist": "Optional"
+      },
+      "brake_systems": {
+        "abs": true,
+        "traction_control": true,
+        "brake_pad_wear_indicator": true
+      },
+      "sensors": {
+        "parking_sensors": "Optional",
+        "front": "Optional",
+        "rear": "Optional",
+        "rain_sensors": "Optional"
+      },
+      "other_security": {
+        "immobiliser": true,
+        "anti_theft_alarm": "Optional",
+        "central_locking": "Remote"
+      },
+      "safety_testing": {
+        "ancap": {
+          "test_year": 2004,
+          "overall_score": 33.37,
+          "rating": 5,
+          "frontal_offset": 13.77,
+          "side_impact": 15.6,
+          "pole": 2,
+          "pedestrian_protection": "Poor",
+          "seat_belt_reminders": 2
+        }
+      }
+    },
+    "identification": {
+      "vin_location": [
+        "Engine Compartment, Bulkhead Right",
+        "B-Pillar, Left",
+        "B-Pillar, Right"
+      ],
+      "obd_port_location": "Steering Wheel, Lower Left"
+    },
+    "classification": {
+      "american": "Compact Car",
+      "british": "Small Family Car",
+      "australian": "Small Car",
+      "european_segment": "C-Segment",
+      "car_info": "Medium Family Car"
+    }
+  }
+}
