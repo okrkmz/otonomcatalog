@@ -3,11 +3,11 @@
   "models": [
     {
       "name": "1 Series 5-door (2004-2024)",
-      "path": "models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_2004_2024.json"
+      "path": "models/1_series_2004/1_series_5_door_2004_2024.json"
     },
     {
       "name": "1 Series 3-door (2007-2019)",
-      "path": "models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_2007_2019.json"
+      "path": "models/1_series_2004/1_series_3_door_2007_2019.json"
     },
     {
       "name": "1 Series Convertible (2008-2014)",
