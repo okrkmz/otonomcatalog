@@ -1,0 +1,21 @@
+{
+  "ad": "1 Serisi (2004 -)",
+  "modeller": [
+    {
+      "ad": "1 Serisi 5-kapi (2004-2024)",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_2004_2024.json"
+    },
+    {
+      "ad": "1 Serisi 3-kapi (2007-2019)",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_2007_2019.json"
+    },
+    {
+      "ad": "1 Serisi Cabrio (2008-2014)",
+      "path": "brands/bmw/models/1_series_2004/1_series_convertible_2008_2014/1_series_convertible_2008_2014.json"
+    },
+    {
+      "ad": "1 Serisi Coupe (2008-2013)",
+      "path": "brands/bmw/models/1_series_2004/1_series_coupe_2008_2013/1_series_coupe_2008_2013.json"
+    }
+  ]
+}
