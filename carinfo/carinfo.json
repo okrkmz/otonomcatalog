@@ -1,0 +1,552 @@
+{
+  "source": "carinfo.com",
+  "extraction_date": "2025-11-10",
+  "brand": [
+    {
+      "ad": "Abarth",
+      "path": "brands/abarth/models.json",
+      "logo": "brands/abarth/abarth.svg"
+    },
+    {
+      "ad": "Acura",
+      "path": "brands/acura/models.json",
+      "logo": "brands/acura/acura.svg"
+    },
+    {
+      "ad": "Aion",
+      "path": "brands/aion/models.json",
+      "logo": "brands/aion/aion.svg"
+    },
+    {
+      "ad": "Alfa Romeo",
+      "path": "brands/alfa_romeo/models.json",
+      "logo": "brands/alfa_romeo/alfa_romeo.svg"
+    },
+    {
+      "ad": "Alpine",
+      "path": "brands/alpine/models.json",
+      "logo": "brands/alpine/alpine.svg"
+    },
+    {
+      "ad": "Anadol",
+      "path": "brands/anadol/models.json",
+      "logo": "brands/anadol/anadol.svg"
+    },
+    {
+      "ad": "Arora",
+      "path": "brands/arora/models.json",
+      "logo": "brands/arora/arora.svg"
+    },
+    {
+      "ad": "Aston Martin",
+      "path": "brands/aston_martin/models.json",
+      "logo": "brands/aston_martin/aston_martin.svg"
+    },
+    {
+      "ad": "Audi",
+      "path": "brands/audi/models.json",
+      "logo": "brands/audi/audi.svg"
+    },
+    {
+      "ad": "Austin",
+      "path": "brands/austin/models.json",
+      "logo": "brands/austin/austin.svg"
+    },
+    {
+      "ad": "Bentley",
+      "path": "brands/bentley/models.json",
+      "logo": "brands/bentley/bentley.svg"
+    },
+    {
+      "ad": "BMW",
+      "path": "brands/bmw/models.json",
+      "logo": "brands/bmw/bmw.svg"
+    },
+    {
+      "ad": "Buick",
+      "path": "brands/buick/models.json",
+      "logo": "brands/buick/buick.svg"
+    },
+    {
+      "ad": "BYD",
+      "path": "brands/byd/models.json",
+      "logo": "brands/byd/byd.svg"
+    },
+    {
+      "ad": "Cadillac",
+      "path": "brands/cadillac/models.json",
+      "logo": "brands/cadillac/cadillac.svg"
+    },
+    
+    {
+      "ad": "Chery",
+      "path": "brands/chery/models.json",
+      "logo": "brands/chery/chery.svg"
+    },
+    {
+      "ad": "Chevrolet",
+      "path": "brands/chevrolet/models.json",
+      "logo": "brands/chevrolet/chevrolet.svg"
+    },
+    {
+      "ad": "Chrysler",
+      "path": "brands/chrysler/models.json",
+      "logo": "brands/chrysler/chrysler.svg"
+    },
+    {
+      "ad": "Citroen",
+      "path": "brands/citroen/models.json",
+      "logo": "brands/citroen/citroen.svg"
+    },
+    {
+      "ad": "Cupra",
+      "path": "brands/cupra/models.json",
+      "logo": "brands/cupra/cupra.svg"
+    },
+    {
+      "ad": "Dacia",
+      "path": "brands/dacia/models.json",
+      "logo": "brands/dacia/dacia.svg"
+    },
+    {
+      "ad": "Daewoo",
+      "path": "brands/daewoo/models.json",
+      "logo": "brands/daewoo/daewoo.svg"
+    },
+    {
+      "ad": "Daihatsu",
+      "path": "brands/daihatsu/models.json",
+      "logo": "brands/daihatsu/daihatsu.svg"
+    },
+    {
+      "ad": "DeSoto",
+      "path": "brands/desoto/models.json",
+      "logo": "brands/desoto/desoto.svg"
+    },
+    {
+      "ad": "DFM",
+      "path": "brands/dfm/models.json",
+      "logo": "brands/dfm/dfm.svg"
+    },
+    {
+      "ad": "DFSK",
+      "path": "brands/dfsk/models.json",
+      "logo": "brands/dfsk/dfsk.svg"
+    },
+    {
+      "ad": "Dodge",
+      "path": "brands/dodge/models.json",
+      "logo": "brands/dodge/dodge.svg"
+    },
+    {
+      "ad": "DS Automobiles",
+      "path": "brands/ds_automobiles/models.json",
+      "logo": "brands/ds_automobiles/ds_automobiles.svg"
+    },
+    {
+      "ad": "Eagle",
+      "path": "brands/eagle/models.json",
+      "logo": "brands/eagle/eagle.svg"
+    },
+    {
+      "ad": "Ferrari",
+      "path": "brands/ferrari/models.json",
+      "logo": "brands/ferrari/ferrari.svg"
+    },
+    {
+      "ad": "Fiat",
+      "path": "brands/fiat/models.json",
+      "logo": "brands/fiat/fiat.svg"
+    },
+    {
+      "ad": "Ford",
+      "path": "brands/ford/models.json",
+      "logo": "brands/ford/ford.svg"
+    },
+    {
+      "ad": "Forthing",
+      "path": "brands/forthing/models.json",
+      "logo": "brands/forthing/forthing.svg"
+    },
+    {
+      "ad": "Foton",
+      "path": "brands/foton/models.json",
+      "logo": "brands/foton/foton.svg"
+    },
+    {
+      "ad": "Gaz",
+      "path": "brands/gaz/models.json",
+      "logo": "brands/gaz/gaz.svg"
+    },
+    {
+      "ad": "Geely",
+      "path": "brands/geely/models.json",
+      "logo": "brands/geely/geely.svg"
+    },
+    {
+      "ad": "GMC",
+      "path": "brands/gmc/models.json",
+      "logo": "brands/gmc/gmc.svg"
+    },
+    {
+      "ad": "Honda",
+      "path": "brands/honda/models.json",
+      "logo": "brands/honda/honda.svg"
+    },
+    {
+      "ad": "Hongqi",
+      "path": "brands/hongqi/models.json",
+      "logo": "brands/hongqi/hongqi.svg"
+    },
+    {
+      "ad": "Hudson",
+      "path": "brands/hudson/models.json",
+      "logo": "brands/hudson/hudson.svg"
+    },
+    {
+      "ad": "Hummer",
+      "path": "brands/hummer/models.json",
+      "logo": "brands/hummer/hummer.svg"
+    },
+    {
+      "ad": "Hyundai",
+      "path": "brands/hyundai/models.json",
+      "logo": "brands/hyundai/hyundai.svg"
+    },
+    {
+      "ad": "Ikco",
+      "path": "brands/ikco/models.json",
+      "logo": "brands/ikco/ikco.svg"
+    },
+    {
+      "ad": "Infiniti",
+      "path": "brands/infiniti/models.json",
+      "logo": "brands/infiniti/infiniti.svg"
+    },
+    {
+      "ad": "Isuzu",
+      "path": "brands/isuzu/models.json",
+      "logo": "brands/isuzu/isuzu.svg"
+    },
+    {
+      "ad": "Jaecoo",
+      "path": "brands/jaecoo/models.json",
+      "logo": "brands/jaecoo/jaecoo.svg"
+    },
+    {
+      "ad": "Jaguar",
+      "path": "brands/jaguar/models.json",
+      "logo": "brands/jaguar/jaguar.svg"
+    },
+    {
+      "ad": "Jeep",
+      "path": "brands/jeep/models.json",
+      "logo": "brands/jeep/jeep.svg"
+    },
+    {
+      "ad": "Kia",
+      "path": "brands/kia/models.json",
+      "logo": "brands/kia/kia.svg"
+    },
+    {
+      "ad": "Kuba",
+      "path": "brands/kuba/models.json",
+      "logo": "brands/kuba/kuba.svg"
+    },
+    {
+      "ad": "Lada",
+      "path": "brands/lada/models.json",
+      "logo": "brands/lada/lada.svg"
+    },
+    {
+      "ad": "Lamborghini",
+      "path": "brands/lamborghini/models.json",
+      "logo": "brands/lamborghini/lamborghini.svg"
+    },
+    {
+      "ad": "Lancia",
+      "path": "brands/lancia/models.json",
+      "logo": "brands/lancia/lancia.svg"
+    },
+    {
+      "ad": "Land Rover",
+      "path": "brands/land_rover/models.json",
+      "logo": "brands/land_rover/land_rover.svg"
+    },
+    {
+      "ad": "Leapmotor",
+      "path": "brands/leapmotor/models.json",
+      "logo": "brands/leapmotor/leapmotor.svg"
+    },
+    {
+      "ad": "Lexus",
+      "path": "brands/lexus/models.json",
+      "logo": "brands/lexus/lexus.svg"
+    },
+    {
+      "ad": "Lincoln",
+      "path": "brands/lincoln/models.json",
+      "logo": "brands/lincoln/lincoln.svg"
+    },
+    {
+      "ad": "Lotus",
+      "path": "brands/lotus/models.json",
+      "logo": "brands/lotus/lotus.svg"
+    },
+    {
+      "ad": "Lynk & Co",
+      "path": "brands/lynk_co/models.json",
+      "logo": "brands/lynk_co/lynk_co.svg"
+    },
+    {
+      "ad": "Mahindra",
+      "path": "brands/mahindra/models.json",
+      "logo": "brands/mahindra/mahindra.svg"
+    },
+    {
+      "ad": "Marcos",
+      "path": "brands/marcos/models.json",
+      "logo": "brands/marcos/marcos.svg"
+    },
+    {
+      "ad": "Maserati",
+      "path": "brands/maserati/models.json",
+      "logo": "brands/maserati/maserati.svg"
+    },
+    {
+      "ad": "Mazda",
+      "path": "brands/mazda/models.json",
+      "logo": "brands/mazda/mazda.svg"
+    },
+    {
+      "ad": "McLaren",
+      "path": "brands/mclaren/models.json",
+      "logo": "brands/mclaren/mclaren.svg"
+    },
+    {
+      "ad": "Mercedes-Benz",
+      "path": "brands/mercedes_benz/models.json",
+      "logo": "brands/mercedes_benz/mercedes_benz.svg"
+    },
+    {
+      "ad": "Mercury",
+      "path": "brands/mercury/models.json",
+      "logo": "brands/mercury/mercury.svg"
+    },
+    {
+      "ad": "MG",
+      "path": "brands/mg/models.json",
+      "logo": "brands/mg/mg.svg"
+    },
+    {
+      "ad": "Mini",
+      "path": "brands/mini/models.json",
+      "logo": "brands/mini/mini.svg"
+    },
+    {
+      "ad": "Mitsubishi",
+      "path": "brands/mitsubishi/models.json",
+      "logo": "brands/mitsubishi/mitsubishi.svg"
+    },
+    {
+      "ad": "Morgan",
+      "path": "brands/morgan/models.json",
+      "logo": "brands/morgan/morgan.svg"
+    },
+    {
+      "ad": "Morris",
+      "path": "brands/morris/models.json",
+      "logo": "brands/morris/morris.svg"
+    },
+    {
+      "ad": "Nash",
+      "path": "brands/nash/models.json",
+      "logo": "brands/nash/nash.svg"
+    },
+    {
+      "ad": "Nieve",
+      "path": "brands/nieve/models.json",
+      "logo": "brands/nieve/nieve.svg"
+    },
+    {
+      "ad": "Nissan",
+      "path": "brands/nissan/models.json",
+      "logo": "brands/nissan/nissan.svg"
+    },
+    {
+      "ad": "Oldsmobile",
+      "path": "brands/oldsmobile/models.json",
+      "logo": "brands/oldsmobile/oldsmobile.svg"
+    },
+    {
+      "ad": "Opel",
+      "path": "brands/opel/models.json",
+      "logo": "brands/opel/opel.svg"
+    },
+    {
+      "ad": "Peugeot",
+      "path": "brands/peugeot/models.json",
+      "logo": "brands/peugeot/peugeot.svg"
+    },
+    {
+      "ad": "Plymouth",
+      "path": "brands/plymouth/models.json",
+      "logo": "brands/plymouth/plymouth.svg"
+    },
+    {
+      "ad": "Polestar",
+      "path": "brands/polestar/models.json",
+      "logo": "brands/polestar/polestar.svg"
+    },
+    {
+      "ad": "Pontiac",
+      "path": "brands/pontiac/models.json",
+      "logo": "brands/pontiac/pontiac.svg"
+    },
+    {
+      "ad": "Porsche",
+      "path": "brands/porsche/models.json",
+      "logo": "brands/porsche/porsche.svg"
+    },
+    {
+      "ad": "Proton",
+      "path": "brands/proton/models.json",
+      "logo": "brands/proton/proton.svg"
+    },
+    {
+      "ad": "Renault",
+      "path": "brands/renault/models.json",
+      "logo": "brands/renault/renault.svg"
+    },
+    {
+      "ad": "Rolls-Royce",
+      "path": "brands/rolls_royce/models.json",
+      "logo": "brands/rolls_royce/rolls_royce.svg"
+    },
+    {
+      "ad": "Rover",
+      "path": "brands/rover/models.json",
+      "logo": "brands/rover/rover.svg"
+    },
+    {
+      "ad": "Saab",
+      "path": "brands/saab/models.json",
+      "logo": "brands/saab/saab.svg"
+    },
+    {
+      "ad": "Seat",
+      "path": "brands/seat/models.json",
+      "logo": "brands/seat/seat.svg"
+    },
+    {
+      "ad": "Seres",
+      "path": "brands/seres/models.json",
+      "logo": "brands/seres/seres.svg"
+    },
+    {
+      "ad": "Skoda",
+      "path": "brands/skoda/models.json",
+      "logo": "brands/skoda/skoda.svg"
+    },
+    {
+      "ad": "Skywell",
+      "path": "brands/skywell/models.json",
+      "logo": "brands/skywell/skywell.svg"
+    },
+    {
+      "ad": "Smart",
+      "path": "brands/smart/models.json",
+      "logo": "brands/smart/smart.svg"
+    },
+    {
+      "ad": "SsangYong",
+      "path": "brands/ssangyong/models.json",
+      "logo": "brands/ssangyong/ssangyong.svg"
+    },
+    {
+      "ad": "Subaru",
+      "path": "brands/subaru/models.json",
+      "logo": "brands/subaru/subaru.svg"
+    },
+    {
+      "ad": "Suzuki",
+      "path": "brands/suzuki/models.json",
+      "logo": "brands/suzuki/suzuki.svg"
+    },
+    {
+      "ad": "SWM",
+      "path": "brands/swm/models.json",
+      "logo": "brands/swm/swm.svg"
+    },
+    {
+      "ad": "Tata",
+      "path": "brands/tata/models.json",
+      "logo": "brands/tata/tata.svg"
+    },
+    {
+      "ad": "Tesla",
+      "path": "brands/tesla/models.json",
+      "logo": "brands/tesla/tesla.svg"
+    },
+    {
+      "ad": "The London Taxi",
+      "path": "brands/the_london_taxi/models.json",
+      "logo": "brands/the_london_taxi/the_london_taxi.svg"
+    },
+    {
+      "ad": "Tofaş",
+      "path": "brands/tofas/models.json",
+      "logo": "brands/tofas/tofas.svg"
+    },
+    {
+      "ad": "TOGG",
+      "path": "brands/togg/models.json",
+      "logo": "brands/togg/togg.svg"
+    },
+    {
+      "ad": "Toyota",
+      "path": "brands/toyota/models.json",
+      "logo": "brands/toyota/toyota.svg"
+    },
+    {
+      "ad": "Trabant",
+      "path": "brands/trabant/models.json",
+      "logo": "brands/trabant/trabant.svg"
+    },
+    {
+      "ad": "Triumph",
+      "path": "brands/triumph/models.json",
+      "logo": "brands/triumph/triumph.svg"
+    },
+    {
+      "ad": "Vanderhall",
+      "path": "brands/vanderhall/models.json",
+      "logo": "brands/vanderhall/vanderhall.svg"
+    },
+    {
+      "ad": "Volkswagen",
+      "path": "brands/volkswagen/models.json",
+      "logo": "brands/volkswagen/volkswagen.svg"
+    },
+    {
+      "ad": "Volta",
+      "path": "brands/volta/models.json",
+      "logo": "brands/volta/volta.svg"
+    },
+    {
+      "ad": "Volvo",
+      "path": "brands/volvo/models.json",
+      "logo": "brands/volvo/volvo.svg"
+    },
+    {
+      "ad": "Voyah",
+      "path": "brands/voyah/models.json",
+      "logo": "brands/voyah/voyah.svg"
+    },
+    {
+      "ad": "ZAZ",
+      "path": "brands/zaz/models.json",
+      "logo": "brands/zaz/zaz.svg"
+    }
+  ]
+}

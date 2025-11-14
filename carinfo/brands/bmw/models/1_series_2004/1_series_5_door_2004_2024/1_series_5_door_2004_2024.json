@@ -1,0 +1,279 @@
+{
+  "ad": "1 Serisi 5-kapi (2004-2024)",
+  "varyantlar": [
+    {
+      "ad": "116i",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/116i.json",
+      "yakit_tipi": "B",
+      "yillar": "2004-2007",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.80 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M"
+      ],
+      "nesil": "E87"
+    },
+    {
+      "ad": "116i 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/116i_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2012-2015",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-9.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118i",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118i.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.80-8.90 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F40"
+    },
+    {
+      "ad": "118i",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118i_2.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 140,
+      "hizlanma_0_100_kmh": "8.50 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F40"
+    },
+    {
+      "ad": "118i 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118i_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2015-2017",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-8.70 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20 LCI"
+    },
+    {
+      "ad": "118i 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118i_5_door_2.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-8.70 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "O"
+      ],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "118i 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118i_5_door_3.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-8.70 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "120i",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/120i.json",
+      "yakit_tipi": "B",
+      "yillar": "2004-2007",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.70-9.20 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87"
+    },
+    {
+      "ad": "120i 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/120i_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 184,
+      "hizlanma_0_100_kmh": "7.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "116d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/116d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.30 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/116d_5_door_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2012-2015",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.30-10.70 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "116d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/116d_5_door_3.json",
+      "yakit_tipi": "D",
+      "yillar": "2015-2017",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.30 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20 LCI"
+    },
+    {
+      "ad": "118d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "9.00-9.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "118d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118d_5_door_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2012-2015",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.90 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118d_5_door_3.json",
+      "yakit_tipi": "D",
+      "yillar": "2015-2017",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.10-8.30 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20 LCI"
+    },
+    {
+      "ad": "118d xDrive 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/118d_xdrive_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2015-2017",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.40 sec",
+      "cekis": "Dort Ceker",
+      "sanzimanlar": [
+        "M"
+      ],
+      "nesil": "F20 LCI"
+    },
+    {
+      "ad": "120d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/120d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 177,
+      "hizlanma_0_100_kmh": "7.60-7.80 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "120d 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/120d_5_door_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2012-2015",
+      "guc_bg": 184,
+      "hizlanma_0_100_kmh": "7.20-7.30 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d xDrive 5-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/120d_xdrive_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 190,
+      "hizlanma_0_100_kmh": "6.90 sec",
+      "cekis": "Dort Ceker",
+      "sanzimanlar": [
+        "O"
+      ],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "120",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/120.json",
+      "yakit_tipi": "MH/B",
+      "yillar": "2025-",
+      "guc_bg": 170,
+      "hizlanma_0_100_kmh": "7.80 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "O"
+      ],
+      "nesil": "F70"
+    }
+  ]
+}

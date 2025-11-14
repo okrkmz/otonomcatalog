@@ -1,0 +1,543 @@
+{
+  "yakit_tipi": "B",
+  "ad": "118i 5-kapi",
+  "yillar": "2018-2019",
+  "hizlanma_0_100_kmh": "8.50-8.70 sec",
+  "guc_bg": 136,
+  "cekis": "Iki Ceker",
+  "sanzimanlar": [
+    "O"
+  ],
+  "nesil": "F20 2nd LCI",
+  "detaylar": {
+    "genel_bakis": {
+      "model_year": "2018-2019",
+      "seriler": "1 Serisi",
+      "model": "1 Serisi 5-kapi",
+      "nesil": "F20 2nd LCI",
+      "chassis": {
+        "type": "Hatchback",
+        "kapilar": 5
+      },
+      "koltuklar": 5,
+      "tescilli_de_isvec": 2171,
+      "aktif_ilan": 37,
+      "ortalama_fiyat_aktif_ilan_sek": 192350
+    },
+    "motor_ve_performans": {
+      "motor_ozellikleri": {
+        "guc_kw": 100,
+        "beygir_bg": 136,
+        "beygir_bhp": 134,
+        "devir_at_azami_guc_dakika": "4400",
+        "tork_nm": 220,
+        "tork_lb_ft": 162,
+        "devir_at_azami_tork_dakika": "1250-4300"
+      },
+      "motor_sivilar": {
+        "sentetik_yag_viskozite": [
+          "0W-20",
+          "0W-30"
+        ],
+        "motor_yag_hacim_l": 4.25
+      },
+      "motor_konfigurasyon": {
+        "hacim_cc": 1499,
+        "hacim_l": 1.5,
+        "silindirler": "3 Cyl. / 4 V per Cyl.",
+        "kapak_mm": 82,
+        "kurs_mm": 94.6,
+        "sikistirma_oran": "11:1",
+        "düzen": "Inline",
+        "turbo": [
+          "Twin-scroll",
+          "Twin-turbo"
+        ],
+        "senkronizasyon": "Timing Chain",
+        "konum": "Front",
+        "motor_montaj": "Longitudinally",
+        "yanma_type": "Piston",
+        "yakit_sistem": "Electronic Fuel Injection",
+        "motor_sogutma": "Liquid Cooling"
+      },
+      "servis_araliklar": {
+        "yakit_filter": "60,000 km / 4 years",
+        "spark_plug": "20,000 km / 1 years",
+        "brake_fluid": "30,000 km / 2 years",
+        "yag_change_and_motor_filter": "25,000 km / 2 years",
+        "motor_coolant": "15,000 km / 1 years"
+      },
+      "performans": {
+        "azami_hiz_kmh": 210,
+        "hizlanma_0_100_kmh": "8.5-8.7 sec"
+      }
+    },
+    "sanziman_ve_aktarma": {
+      "aktarma": "RWD",
+      "sanziman": {
+        "type": "Automatic Manumatic",
+        "speeds": [
+          8
+        ]
+      },
+      "vites_oranlari": {
+        "1st": "4.55-4.71:1",
+        "2nd": "2.55-3.14:1",
+        "3rd": "1.66-2.11:1",
+        "4th": "1.23-1.67:1",
+        "5th": "1-1.29:1",
+        "6th": "0.83-1:1",
+        "7th": "0.84:1",
+        "8th": "0.67:1",
+        "geri": "3.3-4.14:1",
+        "son_drive": "2.81-3.08:1"
+      }
+    },
+    "frenler": {
+      "park_brake": "Manual",
+      "on_frenler": {
+        "type": "Disc",
+        "kapak_mm": 284,
+        "genislik_mm": 22,
+        "sogutma": "Ventilated"
+      },
+      "arka_frenler": {
+        "type": "Disc",
+        "kapak_mm": 290,
+        "genislik_mm": 11
+      }
+    },
+    "suspansiyonlar": {
+      "on": {
+        "yay": "Coil",
+        "suspansiyon": "Independent MacPherson Strut"
+      },
+      "arka": {
+        "yay": "Coil",
+        "suspansiyon": "Independent Multi-link"
+      },
+      "sports_suspansiyon": "Optional"
+    },
+    "yakit_ve_emisyon": {
+      "yakit_tipi": "Petrol",
+      "depo_hacim_l": 52,
+      "yakit_kapak_position": "Rear Right",
+      "emisyon_standart": "Euro 6d-TEMP",
+      "emisyon_sinif": [
+        "B",
+        "C"
+      ],
+      "tuketim_wltp_l_per_100km": {
+        "ortalama": "7.3"
+      },
+      "tuketim_nedc_l_per_100km": {
+        "sehir": [
+          "5.9-6.2",
+          "7.2-7.4"
+        ],
+        "otoyol": [
+          "4.2-4.3",
+          "5.2-5.5"
+        ],
+        "ortalama": [
+          "4.8-5",
+          "5.9-6.2"
+        ]
+      },
+      "co2_wltp_g_per_km": 166,
+      "co2_nedc_g_per_km": [
+        "112-116",
+        "135-140"
+      ]
+    },
+    "boyutlar_ve_agirlik": {
+      "dis_mm": {
+        "uzunluk": 4329,
+        "genislik": 1765,
+        "yukseklik": 1421,
+        "iz_on": 1535,
+        "iz_arka": 1569,
+        "dingil_mesafesi": 2690,
+        "tasma_on": 770,
+        "tasma_arka": 869,
+        "donus_kapak_m": 10.9,
+        "yerden_yukseklik": 140
+      },
+      "ic_mm": {
+        "bas_bosluk_on": 1018,
+        "bas_bosluk_arka": 972,
+        "omuz_bosluk_on": 1400,
+        "omuz_bosluk_arka": 1417
+      },
+      "agirlik_kg": {
+        "bos": "1380-1395",
+        "azami": "1870-1900",
+        "azami_romork_yuk_braked_12pct": 1500,
+        "azami_romork_yuk_braked_8pct": 1500,
+        "azami_romork_yuk_frensiz": 650,
+        "bagaj_kapasite": "565",
+        "azami_tavan_yuk": 75,
+        "azami_cekidemiri_download": 75,
+        "izinli_dingil_yuk_on": "865-895",
+        "izinli_dingil_yuk_arka": 1090
+      }
+    },
+    "chassis_and_body": {
+      "chassis": "Hatchback",
+      "pillars": "A-C",
+      "construction": "Unibody",
+      "kapilar": {
+        "adet": 5,
+        "on": "Conventional",
+        "arka": "Conventional"
+      }
+    },
+    "donanim": {
+      "side_mirrors": {
+        "mirror_type": "Conventional",
+        "adjustments": "Electrical",
+        "driver_side": "Optional",
+        "user_memory": "Optional",
+        "heated": true,
+        "donus_signal": true,
+        "house_renk": "Same as Car"
+      },
+      "windscreen_wipers": {
+        "heated_washer_nozzles": true,
+        "hiz_sensing_intermittent": true,
+        "intermittent_kontrol": true,
+        "arka_wiper": true,
+        "arka_washer_sistem": true,
+        "connector_type_on": "Pinch Tab",
+        "on_wipers_adet": 2
+      },
+      "windows": {
+        "on_lifts": "Powered",
+        "arka_lifts": "Powered (Safety Lock)",
+        "pinch_koruma": [
+          "Driver",
+          "Passenger",
+          "Rear"
+        ],
+        "one_touch_up_down": [
+          "Driver",
+          "Passenger",
+          "Rear"
+        ],
+        "heated_windows": {
+          "arka": true
+        },
+        "heat_insulating": [
+          "Front",
+          "First Row",
+          "Second Row",
+          "Rear"
+        ],
+        "tinted_windows": true
+      },
+      "other_equipment": {
+        "sunroof": "Optional",
+        "sun_blind": "Optional",
+        "tinted_glass": "Optional",
+        "tow_hook": [
+          "Front",
+          "Rear"
+        ],
+        "antenna": true,
+        "mud_flaps": {
+          "on": "Optional",
+          "arka": "Optional",
+          "electric": "Optional"
+        }
+      },
+      "lights": {
+        "fog_lights": "Optional",
+        "main_beam_yardim": "Optional",
+        "uyarlanabilir_headlights": "Optional",
+        "dynamic_viraj_lights": "Optional",
+        "headlight_range_adjustment": "Optional"
+      }
+    },
+    "rims_and_tires": {
+      "tpms": true,
+      "bolts_adet": 5,
+      "bolt_distance_mm": 120,
+      "nut_bolt_boyutlar": "M14x1.25",
+      "merkezi_kapak_mm": 72.6,
+      "fastening_type": "Lug Bolts",
+      "tightening_tork_nm": 140,
+      "rim_type": "Disc Wheel"
+    },
+    "ic": {
+      "instrument_cluster": {
+        "trip_computer": true,
+        "ekran": "6.5",
+        "tachometer": "Analogue"
+      },
+      "climate_kontrol": {
+        "type": "Automatic",
+        "hava_condition": true,
+        "refrigerant": [
+          "R1234yf",
+          "R134A"
+        ],
+        "micro_filter": true,
+        "outside_temperature_gosterge": true
+      },
+      "connectivity": {
+        "radio": [
+          "AM",
+          "FM"
+        ],
+        "dab": "Optional",
+        "media_format": [
+          "CD",
+          "MP3"
+        ],
+        "media_inputs": "USB",
+        "app_connect": "Optional",
+        "apple_carplay": "Optional",
+        "bluetooth": true
+      },
+      "ekranlar": {
+        "centre_ekran_inch": "6.5-8.8",
+        "touchscreen": "Optional"
+      },
+      "speakers": {
+        "adet": "6-12",
+        "azami_watt": "205-360"
+      },
+      "ic_depolama": {
+        "kolcik_hatch": "Front",
+        "kapi_depolama": [
+          "Driver",
+          "Passenger",
+          "Rear"
+        ],
+        "bardak_tutucular": {
+          "on": 2,
+          "konum": "Middle Console"
+        }
+      },
+      "ic_lighting": {
+        "read_isik": [
+          "Front",
+          "Rear"
+        ],
+        "guide_isik": "Entry Guard",
+        "footwell": "Optional",
+        "ambient_isik": "Optional",
+        "selectable_isik_renk": "Optional"
+      },
+      "other_equipment": {
+        "make_up_mirror": [
+          "Driver",
+          "Passenger"
+        ],
+        "make_up_isik": "Optional",
+        "clock": true,
+        "digital": [
+          "Center Display",
+          "Instrument Cluster"
+        ],
+        "outlet_12v": [
+          "Front",
+          "Trunk (Optional)"
+        ],
+        "paspas": [
+          "Front",
+          "Rear"
+        ],
+        "ashtray": "Optional",
+        "sigara_cakmak": "Optional"
+      },
+      "direksiyon_direksiyon": {
+        "multifunction": true,
+        "media_controls": true,
+        "answer_phone": true,
+        "heated": "Optional",
+        "guc_direksiyon": "Electric",
+        "adjustments": [
+          "Tilt",
+          "Telescope"
+        ],
+        "sport": "Optional",
+        "renk": "Black"
+      }
+    },
+    "bagaj": {
+      "arka_bagaj": true,
+      "hacim_l": 360,
+      "hacim_back_koltuk_collapsed_l": 1200,
+      "sill_yukseklik_mm": 690,
+      "engel_ag_or_grid": "Optional",
+      "flat_surface": true,
+      "isik": true
+    },
+    "koltuklar": {
+      "total_koltuklar": 5,
+      "on_koltuklar": {
+        "driver_adjustments": {
+          "koltuk_depth": true,
+          "koltuk_yukseklik": true,
+          "backrest_angle": true,
+          "lumbar_support": "Optional",
+          "headrest_yukseklik": true
+        },
+        "passenger_adjustments": {
+          "koltuk_depth": true,
+          "koltuk_yukseklik": true,
+          "backrest_angle": true,
+          "lumbar_support": "Optional",
+          "headrest_yukseklik": true
+        },
+        "guc_koltuk_driver": "Optional",
+        "guc_koltuk_passenger": "Optional",
+        "heated_koltuklar": "Optional"
+      },
+      "arka_koltuklar": {
+        "row": 2,
+        "collapsible": "Manual",
+        "split_fold_oran": "60/40",
+        "headrests": {
+          "outer_koltuklar": "Height Adjustment"
+        },
+        "number_of_koltuklar": 3,
+        "type": "Adult"
+      }
+    },
+    "konfor_and_ozellikler": {
+      "konfor": {
+        "anahtarsiz_entry": "Optional",
+        "anahtarsiz_start": true,
+        "hiz_sabitleyici_kontrol": true,
+        "uyarlanabilir_hiz_sabitleyici_kontrol": "Optional",
+        "hiz_sinirlayici": "Optional",
+        "kameralar": {
+          "arka": "Optional"
+        }
+      },
+      "other_ozellikler": {
+        "gps": "Optional",
+        "start_stop": true,
+        "horn": "Dual Note"
+      },
+      "accessories": {
+        "alet_set_and_jack": true,
+        "tire_repair_set": true,
+        "compressor": "Optional",
+        "fire_extinguisher": "Optional",
+        "uyari_ucgen": true,
+        "first_aid_set": true,
+        "bicycle_holder": "Optional"
+      }
+    },
+    "guvenlik": {
+      "koltuk_belts": {
+        "yukseklik_adjustable_retractor": true,
+        "manual": true,
+        "type": "Three-Point",
+        "positions": [
+          "Front",
+          "Outer Rear",
+          "Centre Rear"
+        ],
+        "arka_centre_kemer": true,
+        "renk": "Black"
+      },
+      "yardimci_sistemler": {
+        "elektronik_stability_kontrol": true,
+        "ileri_carpisma_uyari": "Optional",
+        "ileri_distance_monitoring": "Optional",
+        "arka_cross_traffic_alert": "Optional",
+        "serit_yardim": "Optional",
+        "hiz_yardim": "Optional",
+        "hill_start_yardim": true,
+        "park_yardim": "Optional",
+        "isaret_yardim": "Optional"
+      },
+      "brake_sistemler": {
+        "autonomous_acil_brake": "Optional",
+        "guc_frenler": true,
+        "abs": "Four-channel",
+        "cekis_kontrol": true,
+        "viraj_brake_kontrol": true,
+        "brake_enerji_geri_kazanimi": true,
+        "elektronik_brake_yardim": true,
+        "brake_balata_asinma_gosterge": true
+      },
+      "sensorler": {
+        "park_sensorler": "Optional",
+        "on": "Optional",
+        "arka": "Optional",
+        "blind_spot_detection": "Optional",
+        "driver_alertness_uyari": true,
+        "isik_sensor": true,
+        "yagmur_sensorler": true
+      },
+      "other_security": {
+        "immobilizer": true,
+        "elektronik": true,
+        "anti_theft_alarm": "Optional",
+        "merkezi_kilitleme": "Remote",
+        "cocuk_guvenlik_locks": "Manual",
+        "active_bonnet": true,
+        "acil_cagri": true
+      },
+      "guvenlik_test": {
+        "euro_ncap": {
+          "test_year": 2012,
+          "yetiskin_occupant_yuzde": 91,
+          "cocuk_occupant_yuzde": 83,
+          "savunmasiz_yol_kullanicilar_yuzde": 63,
+          "guvenlik_yardim_yuzde": 86,
+          "yetiskin_occupant_puan": "32.9/38",
+          "frontal_impact_puan": "15.4/16",
+          "lateral_impact_puan": "14.4/16",
+          "arka_impact_puan": "3/4",
+          "cocuk_occupant_puan": "40.8/49",
+          "guvenlik_ozellikler_puan": "5/13",
+          "crs_installation_check_puan": "12/12",
+          "savunmasiz_yol_kullanicilar_puan": "22.6/49",
+          "yaya_puan": "16.6/49",
+          "guvenlik_yardim": {
+            "hiz_assistance_puan": "0/3",
+            "serit_support_puan": "0/4"
+          }
+        },
+        "ancap": {
+          "test_year": 2011,
+          "overall_score": 36.33,
+          "puan": 5,
+          "frontal_offset": 15.45,
+          "side_impact": 15.88,
+          "pole": 2,
+          "whiplash_koruma": "Not Assessed",
+          "yaya_koruma": "Acceptable",
+          "guvenlik_yardim": {
+            "koltuk_kemer_hatirlatmalar": 3
+          }
+        }
+      }
+    },
+    "kimlik": {
+      "vin_konum": [
+        "Engine Compartment, Bulkhead Right",
+        "Left Side Casing of Window",
+        "B-Pillar, Right"
+      ],
+      "obd_port_konum": "Steering Wheel, Lower Left"
+    },
+    "siniflandirma": {
+      "amerikan": "Compact Car",
+      "ingiliz": "Small Family Car",
+      "avustralya": "Small Car",
+      "european_segment": "C-Segment",
+      "car_info": "Medium Family Car"
+    },
+    "vergi_degerleri": {
+      "monthly_sek": "0",
+      "price_sek": "0"
+    }
+  }
+}

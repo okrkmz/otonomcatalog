@@ -1,0 +1,281 @@
+{
+  "ad": "1 Serisi 3-kapi (2007-2019)",
+  "varyantlar": [
+    {
+      "ad": "114i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/114i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 102,
+      "hizlanma_0_100_kmh": "11.20 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "116i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/116i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 122,
+      "hizlanma_0_100_kmh": "10.10-11.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/116i_3_door_2.json",
+      "yakit_tipi": "B",
+      "yillar": "2009-2012",
+      "guc_bg": 122,
+      "hizlanma_0_100_kmh": "9.80-10.70 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/116i_3_door_3.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-9.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/118i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.70-9.20 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "120i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/120i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 170,
+      "hizlanma_0_100_kmh": "7.70-8.30 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "130i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/130i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 265,
+      "hizlanma_0_100_kmh": "6.00-6.20 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "M135i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/m135i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 320,
+      "hizlanma_0_100_kmh": "4.90-5.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "M135i xDrive 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/m135i_xdrive_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 320,
+      "hizlanma_0_100_kmh": "4.70 sec",
+      "cekis": "Dort Ceker",
+      "sanzimanlar": [
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "M140i 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/m140i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 340,
+      "hizlanma_0_100_kmh": "4.60-4.80 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "116d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/116d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.20 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/116d_3_door_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.50 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "116d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/116d_3_door_3.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.30 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/118d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.90-9.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "118d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/118d_3_door_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.90-9.00 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "118d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/118d_3_door_3.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.60-8.90 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/120d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 177,
+      "hizlanma_0_100_kmh": "7.50-7.70 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "120d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/120d_3_door_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 184,
+      "hizlanma_0_100_kmh": "7.10-7.20 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    },
+    {
+      "ad": "123d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/123d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 204,
+      "hizlanma_0_100_kmh": "7.00-7.10 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "125d 3-kapi",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/125d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 218,
+      "hizlanma_0_100_kmh": "6.30-6.50 sec",
+      "cekis": "Iki Ceker",
+      "sanzimanlar": [
+        "M",
+        "O"
+      ],
+      "nesil": "F20"
+    }
+  ]
+}
