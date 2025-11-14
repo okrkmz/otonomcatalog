@@ -1,0 +1,225 @@
+{
+  "ad": "1 Serisi 3-kapi F20 (2012-2015)",
+  "varyantlar": [
+    {
+      "ad": "114i 3-kapi, 102 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/114i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 102,
+      "hizlanma_0_100_kmh": "11.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "114i EfficientDynamics Edition 3-kapi, 102 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/114i_efficientdynamics_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 102,
+      "hizlanma_0_100_kmh": "11.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "116i 3-kapi, 136 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/116i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-9.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118i 3-kapi, 170 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/118i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 170,
+      "hizlanma_0_100_kmh": "7.20-7.40 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "125i 3-kapi, 218 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/125i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 218,
+      "hizlanma_0_100_kmh": "6.20-6.40 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "125i M Performance 3-kapi, 238 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/125i_m_performance_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 238,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "M135i 3-kapi, 320 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/m135i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 320,
+      "hizlanma_0_100_kmh": "4.90-5.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "M135i xDrive 3-kapi, 320 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/m135i_xdrive_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2013-2015",
+      "guc_bg": 320,
+      "hizlanma_0_100_kmh": "4.70 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "114d 3-kapi, 95 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/114d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 95,
+      "hizlanma_0_100_kmh": "12.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "116d 3-kapi, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/116d_3_door_116hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.30 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "116d 3-kapi, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/116d_3_door_116hp_2.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.50 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118d 3-kapi, 143 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/118d_3_door_143hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.60-8.90 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118d 3-kapi, 136 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/118d_3_door_136hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "118d xDrive 3-kapi, 143 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/118d_xdrive_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.90 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["M"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d 3-kapi, 184 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/120d_3_door_184hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 184,
+      "hizlanma_0_100_kmh": "7.10-7.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d 3-kapi, 163 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/120d_3_door_163hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 163,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d M Performance 3-kapi, 200 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/120d_m_performance_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 200,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d xDrive 3-kapi, 184 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/120d_xdrive_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 184,
+      "hizlanma_0_100_kmh": "7.20 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "120d xDrive M Performance 3-kapi, 200 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/120d_xdrive_m_performance_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 200,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Dort Ceker",
+      "vites": ["M"],
+      "nesil": "F20"
+    },
+    {
+      "ad": "125d 3-kapi, 218 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/125d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2013-2015",
+      "guc_bg": 218,
+      "hizlanma_0_100_kmh": "6.30-6.50 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20"
+    }
+  ]
+}

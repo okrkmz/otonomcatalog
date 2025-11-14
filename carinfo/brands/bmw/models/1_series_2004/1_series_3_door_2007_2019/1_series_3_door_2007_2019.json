@@ -1,0 +1,22 @@
+{
+  "ad": "1 Serisi 3-kapi (2007-2019)",
+  "modeller": [
+    {
+      "ad": "1 Serisi 3-kapi E87 Update (2007-2012)",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/1_series_3_door_e87_update_2007_2012.json"
+    },
+    {
+      "ad": "1 Serisi 3-kapi F20 (2012-2015)",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2012_2015/1_series_3_door_f20_2012_2015.json"
+    },
+    {
+      "ad": "1 Serisi 3-kapi F20 LCI (2015-2017)",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_lci_2015_2017/1_series_3_door_f20_lci_2015_2017.json"
+    },
+    {
+      "ad": "1 Serisi 3-kapi F20 2nd LCI (2018-2019)",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/1_series_3_door_f20_2nd_lci_2018_2019.json"
+    }
+  ]
+}
+

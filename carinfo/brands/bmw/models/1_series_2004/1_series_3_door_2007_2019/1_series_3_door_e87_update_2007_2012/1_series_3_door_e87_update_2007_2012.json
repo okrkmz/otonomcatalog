@@ -1,0 +1,148 @@
+{
+  "ad": "1 Serisi 3-kapi E87 Update (2007-2012)",
+  "varyantlar": [
+    {
+      "ad": "116i 3-kapi, 122 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/116i_3_door_122hp.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 122,
+      "hizlanma_0_100_kmh": "10.10-11.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116i 3-kapi, 122 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/116i_3_door_122hp_2.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 122,
+      "hizlanma_0_100_kmh": "9.80-10.70 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116i 3-kapi, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/116i_3_door_116hp.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "118i 3-kapi, 143 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/118i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.70-9.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "120i 3-kapi, 170 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/120i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 170,
+      "hizlanma_0_100_kmh": "7.70-8.30 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "130i 3-kapi, 258 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/130i_3_door_258hp.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 258,
+      "hizlanma_0_100_kmh": "6.00-6.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "130i 3-kapi, 265 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/130i_3_door_265hp.json",
+      "yakit_tipi": "B",
+      "yillar": "2007-2011",
+      "guc_bg": 265,
+      "hizlanma_0_100_kmh": "6.00-6.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116d 3-kapi, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/116d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "116d 3-kapi, 90 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/116d_3_door_90hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 90,
+      "hizlanma_0_100_kmh": null,
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "118d 3-kapi, 143 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/118d_3_door_143hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 143,
+      "hizlanma_0_100_kmh": "8.90-9.00 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "118d 3-kapi, 136 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/118d_3_door_136hp.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.90-9.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "120d 3-kapi, 177 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/120d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 177,
+      "hizlanma_0_100_kmh": "7.50-7.70 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    },
+    {
+      "ad": "123d 3-kapi, 204 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_e87_update_2007_2012/123d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2007-2011",
+      "guc_bg": 204,
+      "hizlanma_0_100_kmh": "7.00-7.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87 Update"
+    }
+  ]
+}

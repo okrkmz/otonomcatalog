@@ -1,0 +1,137 @@
+{
+  "ad": "1 Serisi 3-kapi F20 2nd LCI (2018-2019)",
+  "varyantlar": [
+    {
+      "ad": "116i 3-kapi, 109 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/116i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 109,
+      "hizlanma_0_100_kmh": "10.90 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "118i 3-kapi, 136 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/118i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.50-8.70 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "120i 3-kapi, 184 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/120i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 184,
+      "hizlanma_0_100_kmh": "7.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "125i 3-kapi, 224 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/125i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 224,
+      "hizlanma_0_100_kmh": "6.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "M140i 3-kapi, 340 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/m140i_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 340,
+      "hizlanma_0_100_kmh": "4.60-4.80 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "M140i xDrive 3-kapi, 340 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/m140i_xdrive_3_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2018-2019",
+      "guc_bg": 340,
+      "hizlanma_0_100_kmh": "4.40 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "116d 3-kapi, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/116d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.50 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "118d 3-kapi, 150 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/118d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.20-8.40 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "118d xDrive 3-kapi, 150 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/118d_xdrive_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.50 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["M"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "120d 3-kapi, 190 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/120d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 190,
+      "hizlanma_0_100_kmh": "7.10-7.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "120d xDrive 3-kapi, 190 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/120d_xdrive_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 190,
+      "hizlanma_0_100_kmh": "6.90 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F20 2nd LCI"
+    },
+    {
+      "ad": "125d 3-kapi, 224 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_3_door_2007_2019/1_series_3_door_f20_2nd_lci_2018_2019/125d_3_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2018-2019",
+      "guc_bg": 224,
+      "hizlanma_0_100_kmh": "6.40 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F20 2nd LCI"
+    }
+  ]
+}
