@@ -1,0 +1,115 @@
+{
+  "ad": "1 Serisi 5-kapi F40 (2020-2024)",
+  "varyantlar": [
+    {
+      "ad": "116i 5-kapi, 109 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/116i_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 109,
+      "hizlanma_0_100_kmh": "10.60 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "118i 5-kapi, 140 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/118i_5_door_140hp.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 140,
+      "hizlanma_0_100_kmh": "8.50 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "118i 5-kapi, 136 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/118i_5_door_136hp.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 136,
+      "hizlanma_0_100_kmh": "8.80-8.90 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "120i 5-kapi, 178 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/120i_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 178,
+      "hizlanma_0_100_kmh": "7.00 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "128ti 5-kapi, 265 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/128ti_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 265,
+      "hizlanma_0_100_kmh": "6.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "M135i xDrive 5-kapi, 306 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/m135i_xdrive_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2020-2024",
+      "guc_bg": 306,
+      "hizlanma_0_100_kmh": "4.80 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "116d 5-kapi, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/116d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2020-2024",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.10-10.30 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "118d 5-kapi, 150 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/118d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2020-2024",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.40-8.50 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "120d 5-kapi, 190 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/120d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2020-2024",
+      "guc_bg": 190,
+      "hizlanma_0_100_kmh": "7.30 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F40"
+    },
+    {
+      "ad": "120d xDrive 5-kapi, 190 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f40_2020_2024/120d_xdrive_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2020-2024",
+      "guc_bg": 190,
+      "hizlanma_0_100_kmh": "7.00 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F40"
+    }
+  ]
+}

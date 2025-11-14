@@ -1,0 +1,137 @@
+{
+  "ad": "120d 5-kapi, 177 hp",
+  "yakit_tipi": "D",
+  "yillar": "2007-2011",
+  "guc_bg": 177,
+  "hizlanma_0_100_kmh": "7.60-7.80 sec",
+  "cekis": "Iki Ceker",
+  "vites": ["M", "O"],
+  "nesil": "E87 Update",
+  "detaylar": {
+    "genel_bakis": {
+      "model_year": "2007-2012",
+      "seriler": "1 Serisi",
+      "model": "1 Serisi 5-kapi",
+      "nesil": "E87 Update",
+      "chassis": {
+        "type": "Hatchback",
+        "kapilar": 5
+      },
+      "koltuklar": 5,
+      "tescilli_de_isvec": 972,
+      "aktif_ilan": 24,
+      "ortalama_fiyat_aktif_ilan_sek": 64900
+    },
+    "motor_ve_performans": {
+      "motor_ozellikleri": {
+        "guc_kw": 130,
+        "beygir_bg": 177,
+        "beygir_bhp": 174.5,
+        "devir_at_azami_guc_dakika": 4000,
+        "tork_nm": 350,
+        "tork_lb_ft": 258,
+        "devir_at_azami_tork_dakika": "1750-3000"
+      },
+      "motor_sivilar": {
+        "sentetik_yag_viskozite": [
+          "0W-30"
+        ],
+        "motor_yag_hacim_l": 5.2
+      },
+      "motor_konfigurasyon": {
+        "hacim_cc": 1995,
+        "hacim_l": 2.0,
+        "silindirler": "4 Cyl. / 4 V per Cyl.",
+        "düzen": "Inline",
+        "turbo": "Twin-turbo",
+        "senkronizasyon": "Timing Chain",
+        "konum": "Front",
+        "motor_montaj": "Longitudinally",
+        "yanma_type": "Piston",
+        "yakit_sistem": "Electronic Fuel Injection"
+      },
+      "performans": {
+        "azami_hiz_kmh": "226-228",
+        "hizlanma_0_100_kmh": "7.6-7.8 sec"
+      }
+    },
+    "sanziman_ve_aktarma": {
+      "aktarma": "RWD",
+      "sanziman": {
+        "turler": [
+          "Automatic Manumatic",
+          "Manual"
+        ]
+      },
+      "vites_oranlari": {
+        "1st": "4.17-5.14:1",
+        "2nd": "2.34-2.83:1",
+        "3rd": "1.52-1.8:1",
+        "4th": "1.14-1.26:1",
+        "5th": "1:1",
+        "6th": "0.69-0.83:1"
+      }
+    },
+    "yakit_ve_emisyon": {
+      "yakit_tipi": "Diesel",
+      "depo_hacim_l": 51,
+      "emisyon_standart": "Euro 5",
+      "tuketim_nedc_l_per_100km": {
+        "sehir": "5.9-7.2",
+        "otoyol": "4.1-4.5",
+        "ortalama": "4.8-5.4"
+      },
+      "co2_nedc_g_per_km": "125-144"
+    },
+    "boyutlar_ve_agirlik": {
+      "dis_mm": {
+        "uzunluk": 4239,
+        "genislik": 1748,
+        "yukseklik": 1421,
+        "dingil_mesafesi": 2660
+      },
+      "agirlik_kg": {
+        "bos": "1450-1455",
+        "azami": "1875-1880"
+      }
+    },
+    "konfor_and_ozellikler": {
+      "konfor": {
+        "anahtarsiz_entry": "Optional",
+        "hiz_sabitleyici_kontrol": "Optional"
+      }
+    },
+    "guvenlik": {
+      "koltuk_belts": {
+        "type": "Three-Point",
+        "positions": [
+          "Front",
+          "Outer Rear",
+          "Centre Rear"
+        ]
+      },
+      "yardimci_sistemler": {
+        "elektronik_stability_kontrol": true
+      }
+    },
+    "kimlik": {
+      "vin_konum": [
+        "Engine Compartment, Bulkhead Right",
+        "B-Pillar, Left",
+        "B-Pillar, Right"
+      ],
+      "obd_port_konum": "Steering Wheel, Lower Left"
+    },
+    "siniflandirma": {
+      "amerikan": "Compact Car",
+      "ingiliz": "Small Family Car",
+      "avustralya": "Small Car",
+      "european_segment": "C-Segment",
+      "car_info": "Medium Family Car"
+    },
+    "vergi_degerleri": {
+      "monthly_sek": "3974-4066",
+      "price_sek": "265000-275000"
+    }
+  }
+}

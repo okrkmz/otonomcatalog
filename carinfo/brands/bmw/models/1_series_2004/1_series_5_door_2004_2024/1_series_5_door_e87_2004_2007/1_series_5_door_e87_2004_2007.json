@@ -1,0 +1,71 @@
+{
+  "ad": "1 Serisi 5-kapi E87 (2004-2007)",
+  "varyantlar": [
+    {
+      "ad": "116i, 116 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_e87_2004_2007/116i.json",
+      "yakit_tipi": "B",
+      "yillar": "2004-2007",
+      "guc_bg": 116,
+      "hizlanma_0_100_kmh": "10.80 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "E87"
+    },
+    {
+      "ad": "118i, 129 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_e87_2004_2007/118i.json",
+      "yakit_tipi": "B",
+      "yillar": "2004-2007",
+      "guc_bg": 129,
+      "hizlanma_0_100_kmh": "9.40-10.10 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87"
+    },
+    {
+      "ad": "120i, 150 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_e87_2004_2007/120i.json",
+      "yakit_tipi": "B",
+      "yillar": "2004-2007",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.70-9.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87"
+    },
+    {
+      "ad": "130i, 265 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_e87_2004_2007/130i.json",
+      "yakit_tipi": "B",
+      "yillar": "2004-2007",
+      "guc_bg": 265,
+      "hizlanma_0_100_kmh": "6.10-6.30 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87"
+    },
+    {
+      "ad": "118d, 122 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_e87_2004_2007/118d.json",
+      "yakit_tipi": "D",
+      "yillar": "2004-2007",
+      "guc_bg": 122,
+      "hizlanma_0_100_kmh": "10.00 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M"],
+      "nesil": "E87"
+    },
+    {
+      "ad": "120d, 163 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_e87_2004_2007/120d.json",
+      "yakit_tipi": "D",
+      "yillar": "2004-2007",
+      "guc_bg": 163,
+      "hizlanma_0_100_kmh": "7.90-8.20 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["M", "O"],
+      "nesil": "E87"
+    }
+  ]
+}

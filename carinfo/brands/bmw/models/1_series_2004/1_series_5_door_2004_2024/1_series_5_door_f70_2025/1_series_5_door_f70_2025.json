@@ -1,0 +1,71 @@
+{
+  "ad": "1 Serisi 5-kapi F70 (2025-)",
+  "varyantlar": [
+    {
+      "ad": "116 5-kapi, 122 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f70_2025/116_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2025-",
+      "guc_bg": 122,
+      "hizlanma_0_100_kmh": "9.80 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F70"
+    },
+    {
+      "ad": "M135 xDrive 5-kapi, 300 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f70_2025/m135_xdrive_5_door.json",
+      "yakit_tipi": "B",
+      "yillar": "2025-",
+      "guc_bg": 300,
+      "hizlanma_0_100_kmh": "4.90 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F70"
+    },
+    {
+      "ad": "118d 5-kapi, 150 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f70_2025/118d_5_door.json",
+      "yakit_tipi": "D",
+      "yillar": "2025-",
+      "guc_bg": 150,
+      "hizlanma_0_100_kmh": "8.30 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F70"
+    },
+    {
+      "ad": "120 5-kapi, 170 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f70_2025/120_5_door.json",
+      "yakit_tipi": "MH",
+      "yillar": "2025-",
+      "guc_bg": 170,
+      "hizlanma_0_100_kmh": "7.80 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F70"
+    },
+    {
+      "ad": "123 xDrive 5-kapi, 218 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f70_2025/123_xdrive_5_door.json",
+      "yakit_tipi": "MH",
+      "yillar": "2025-",
+      "guc_bg": 218,
+      "hizlanma_0_100_kmh": "6.30 sec",
+      "cekis": "Dort Ceker",
+      "vites": ["O"],
+      "nesil": "F70"
+    },
+    {
+      "ad": "120d 5-kapi, 163 hp",
+      "path": "brands/bmw/models/1_series_2004/1_series_5_door_2004_2024/1_series_5_door_f70_2025/120d_5_door.json",
+      "yakit_tipi": "MHD",
+      "yillar": "2025-",
+      "guc_bg": 163,
+      "hizlanma_0_100_kmh": "7.90 sec",
+      "cekis": "Iki Ceker",
+      "vites": ["O"],
+      "nesil": "F70"
+    }
+  ]
+}
