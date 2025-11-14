@@ -1,0 +1,101 @@
+{
+  "brand": "BMW",
+  "series": [
+    {
+      "ad": "1 Series (2004 -)",
+      "path": "brands/bmw/models/1_series_2004/1_series_2004.json"
+    },
+    {
+      "ad": "2 Series Active/Gran Tourer (2015 -)",
+      "path": "brands/bmw/models/2_series_active_gran_tourer_2015/2_series_active_gran_tourer_2015.json"
+    },
+    {
+      "ad": "3 Series (1975 -)",
+      "path": "brands/bmw/models/3_series_1975/3_series_1975.json"
+    },
+    {
+      "ad": "4 Series (2014 -)",
+      "path": "brands/bmw/models/4_series_2014/4_series_2014.json"
+    },
+    {
+      "ad": "5 Series (1973 -)",
+      "path": "brands/bmw/models/5_series_1973/5_series_1973.json"
+    },
+    {
+      "ad": "7 Series (1977 -)",
+      "path": "brands/bmw/models/7_series_1977/7_series_1977.json"
+    },
+    {
+      "ad": "iX (2022 -)",
+      "path": "brands/bmw/models/ix_2022/ix_2022.json"
+    },
+    {
+      "ad": "X1 (2010 -)",
+      "path": "brands/bmw/models/x1_2010/x1_2010.json"
+    },
+    {
+      "ad": "X3 (2004 -)",
+      "path": "brands/bmw/models/x3_2004/x3_2004.json"
+    },
+    {
+      "ad": "X4 (2015 -)",
+      "path": "brands/bmw/models/x4_2015/x4_2015.json"
+    },
+    {
+      "ad": "X5 (2000 -)",
+      "path": "brands/bmw/models/x5_2000/x5_2000.json"
+    },
+    {
+      "ad": "Z4 (2003 -)",
+      "path": "brands/bmw/models/z4_2003/z4_2003.json"
+    },
+    {
+      "ad": "1600 GT (1968 -)",
+      "path": "brands/bmw/models/1600_gt_1968/1600_gt_1968.json"
+    },
+    {
+      "ad": "327 (1937 - 1955)",
+      "path": "brands/bmw/models/327_1937_1955/327_1937_1955.json"
+    },
+    {
+      "ad": "501/502 (1952 - 1965)",
+      "path": "brands/bmw/models/501_502_1952_1965/501_502_1952_1965.json"
+    },
+    {
+      "ad": "700 (1960 - 1965)",
+      "path": "brands/bmw/models/700_1960_1965/700_1960_1965.json"
+    },
+    {
+      "ad": "E3/E9 (1968 - 1977)",
+      "path": "brands/bmw/models/e3_e9_1968_1977/e3_e9_1968_1977.json"
+    },
+    {
+      "ad": "i3 (2014 - 2022)",
+      "path": "brands/bmw/models/i3_2014_2022/i3_2014_2022.json"
+    },
+    {
+      "ad": "i8 (2014 - 2020)",
+      "path": "brands/bmw/models/i8_2014_2020/i8_2014_2020.json"
+    },
+    {
+      "ad": "Isetta (1955 - 1962)",
+      "path": "brands/bmw/models/isetta_1955_1962/isetta_1955_1962.json"
+    },
+    {
+      "ad": "New Class (1962 - 1977)",
+      "path": "brands/bmw/models/new_class_1962_1977/new_class_1962_1977.json"
+    },
+    {
+      "ad": "Z1 (1989 - 1992)",
+      "path": "brands/bmw/models/z1_1989_1992/z1_1989_1992.json"
+    },
+    {
+      "ad": "Z3 (1996 - 2003)",
+      "path": "brands/bmw/models/z3_1996_2003/z3_1996_2003.json"
+    },
+    {
+      "ad": "Z8 (2000 - 2003)",
+      "path": "brands/bmw/models/z8_2000_2003/z8_2000_2003.json"
+    }
+  ]
+}
